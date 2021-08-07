@@ -17,7 +17,7 @@ const speedElement = document.getElementById('speed')
 const text = 'Loading din din...'
 
 let idx = 1
-let speed = 300 /speedElement.value
+let speed = 300 / speedElement.value
 
 writeText()
 
